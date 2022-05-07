@@ -1,0 +1,3 @@
+/Users/jhuang/code/github.com/err53/1xc3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jhuang/code/github.com/err53/1xc3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jhuang/code/github.com/err53/1xc3/cmake-build-debug/CMakeFiles/1xc3.dir

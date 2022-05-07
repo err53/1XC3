@@ -9,11 +9,11 @@
         ""
       ],
       "stopAtEntry": true,
-      "cwd": "/Users/jhuang/code/github.com/err53/1xc3/assignments/a2/temps",
+      "cwd": "/Users/jhuang/code/github.com/err53/1xc3/assignments/a4",
       "environment": [],
-      "program": "/Users/jhuang/code/github.com/err53/1xc3/assignments/a2/temps/build/Debug/outDebug",
+      "program": "/Users/jhuang/code/github.com/err53/1xc3/assignments/a4/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
-      "MIMode": "gdb",
+      "MIMode": "lldb",
       "externalConsole": false
     }
   ]
